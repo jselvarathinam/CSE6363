@@ -1,0 +1,2 @@
+The answers to my problems can be found in a mix of 2 locations. The first is the .ipynb file called "John_Selvarathinam_Project_1" and the second is the word document also called "John_Selvarathinam_Project_1". To run the .ipynb file, open the file in Google Colab or Jupyter Notebook and run every run cell from top to bottom. The code is commented and laid out in an orderly manner and follows the steps of the problem. Follow along in the word document to see my answers to questions as well.
+ 
